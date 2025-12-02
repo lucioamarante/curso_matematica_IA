@@ -94,4 +94,4 @@ np.random.seed(42)
 print(np.random.rand(3)) 
 
 # Gera 5 inteiros entre 10 e 100
-print(np.random.randint(10, 100, 5))            
+print(np.random.randint(10, 100, 5))            "# curso_matematica_IA" 
